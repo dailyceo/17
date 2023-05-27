@@ -538,8 +538,7 @@ function App() {
                 color: "var(--primary)",
               }}
             >
-              Members of our FUNKOZ family, will be part of an inclusive community that cherishes the intersection of creativity, technology, and the shared love for these irresistible digital treats,
-              all brought to life through PostEY's one-of-a-kind illustrations.
+               Members of our FUNKOZ family will be part of an inclusive community that cherishes the intersection of creativity, technology, and shared love for these irresistible digital treats, all brought to life through PostEY's one-of-a-kind illustrations.
             </s.TextDescription>
 
 
